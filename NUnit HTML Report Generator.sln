@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit HTML Report Generator", "NUnit HTML Report Generator\NUnit HTML Report Generator.csproj", "{57DA704E-FFBB-46BC-A8A2-8A8FAAFFA9C5}"
 EndProject
 Global
